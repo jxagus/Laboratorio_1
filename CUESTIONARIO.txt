@@ -1,0 +1,25 @@
+a. La película con menor cantidad de localidades vendidas entre todas las ventas del mes.
+ No tener en cuenta las películas sin ventas. 
+
+b. La cantidad de salas con más de 10 localidades vendidas en todo el mes.
+
+c. La cantidad de películas en las que se vendieron localidades.
+
+d. El día con mayor cantidad de entradas vendidas en una venta
+
+
+Número de venta                        	
+Día
+Número de sala (1 a 20).
+Número de película (1 a 10)
+Cantidad de localidades (cantidad de butacas de la sala vendidas en esa venta)
+importe total ( $)
+------------------------------------------------------------------------
+Consignas
+a. La cantidad de ventas con cantidad de localidades igual a 1.
+
+b. La película con menor cantidad de localidades vendidas entre todas las entradas vendidas	en el mes.
+
+c. La cantidad de películas en las que se vendieron localidades.
+
+d. La película con mayor importe total entre todas las ventas del mes.
